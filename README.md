@@ -1,0 +1,1 @@
+A simple project demonstrating data persistence in a game built in Unity ,that is, saving data across scenes and also saving data permanently in a JSON file (like a high score) enabling us to see it after rebooting the game.
